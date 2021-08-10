@@ -1,0 +1,19 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="整体干预方案" />
+      <item value="Whole Intervention Program" />
+      <item value="service Type" />
+      <item value="信息" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="4" />
+        <entry key="ENGLISH" value="4" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1628583805737" />
+  </component>
+</application>
