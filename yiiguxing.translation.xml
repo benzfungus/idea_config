@@ -3,7 +3,13 @@
     <option name="newTranslationDialogWidth" value="596" />
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="客观检查" />
+      <item value="Determination" />
+      <item value="Objective" />
+      <item value="Objective Determination" />
+      <item value="inspection" />
       <item value="至少" />
       <item value="监测日期" />
       <item value="监测指标" />
@@ -20,8 +26,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="CHINESE" value="19" />
+        <entry key="ENGLISH" value="19" />
       </map>
     </option>
   </component>
