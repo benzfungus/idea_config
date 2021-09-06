@@ -6,5 +6,6 @@
     <mask>*</mask>
     <mask>*.class</mask>
     <mask>!*.log</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
