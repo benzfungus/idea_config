@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="if (!CollectionUtils.isEmpty(evaluationTemplates)) { evaluationTemplateService.saveBatchPresetTemplate(evaluationTemplates, SecurityConstants.FROM_IN); }" />
       <item value="预设" />
       <item value="到期" />
       <item value="sport prescription" />
@@ -44,7 +45,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="ENGLISH" value="34" />
       </map>
     </option>
   </component>
