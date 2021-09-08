@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="SPORT RECORD" />
+      <item value="互动点评" />
       <item value="Work Reminder" />
       <item value="Work Notice" />
       <item value="if (!CollectionUtils.isEmpty(evaluationTemplates)) { evaluationTemplateService.saveBatchPresetTemplate(evaluationTemplates, SecurityConstants.FROM_IN); }" />
@@ -46,8 +48,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="37" />
+        <entry key="DANISH" value="1" />
       </map>
     </option>
   </component>
