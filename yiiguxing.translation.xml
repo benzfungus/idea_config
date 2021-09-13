@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="STAGE SUMMARY" />
+      <item value="WHOLE PROGRAM" />
       <item value="SPORT RECORD" />
       <item value="互动点评" />
       <item value="Work Reminder" />
@@ -48,13 +50,13 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="CHINESE" value="38" />
+        <entry key="ENGLISH" value="39" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630898871911" />
+    <option name="lastTrimTime" value="1631496203844" />
   </component>
 </application>
