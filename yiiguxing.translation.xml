@@ -5,6 +5,29 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="营养膳食" />
+      <item value="INTERVENTION PROGRAM" />
+      <item value="risk Factor" />
+      <item value="INSPECTION" />
+      <item value="客观检查" />
+      <item value="objective Determination" />
+      <item value="inspection" />
+      <item value="deposited" />
+      <item value="续会" />
+      <item value="INTERVENTION" />
+      <item value="会员" />
+      <item value="设置" />
+      <item value="入会" />
+      <item value="营养处方" />
+      <item value="点评" />
+      <item value="密钥" />
+      <item value="权限" />
+      <item value="权限管理" />
+      <item value="分配权限" />
+      <item value="分配" />
+      <item value="执行" />
+      <item value="刷新" />
+      <item value="暂停" />
       <item value="Reviewer" />
       <item value="已处理" />
       <item value="待处理" />
@@ -32,29 +55,11 @@
       <item value="首页" />
       <item value="count Current Sign Up Customer" />
       <item value="Last" />
-      <item value="客观检查" />
-      <item value="Determination" />
-      <item value="Objective" />
-      <item value="Objective Determination" />
-      <item value="inspection" />
-      <item value="至少" />
-      <item value="监测日期" />
-      <item value="监测指标" />
-      <item value="干预小结" />
-      <item value="push flag" />
-      <item value="推送标记" />
-      <item value="overall" />
-      <item value="whole" />
-      <item value="intervention program" />
-      <item value="整体干预方案" />
-      <item value="Whole Intervention Program" />
-      <item value="service Type" />
-      <item value="信息" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="64" />
+        <entry key="ENGLISH" value="64" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
