@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="其他" />
+      <item value="quantity" />
+      <item value="份量" />
+      <item value="Weight" />
       <item value="dose" />
       <item value="peek" />
       <item value="Ordinary" />
@@ -50,15 +54,11 @@
       <item value="预设" />
       <item value="到期" />
       <item value="sport prescription" />
-      <item value="certificate" />
-      <item value="certificate type" />
-      <item value="证件类型" />
-      <item value="execute" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
-        <entry key="ENGLISH" value="71" />
+        <entry key="CHINESE" value="73" />
+        <entry key="ENGLISH" value="73" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
