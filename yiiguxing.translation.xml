@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="peek" />
       <item value="Ordinary" />
       <item value="HEADER" />
       <item value="负责人" />
@@ -53,12 +54,11 @@
       <item value="证件类型" />
       <item value="execute" />
       <item value="introducer" />
-      <item value="processed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="CHINESE" value="69" />
+        <entry key="ENGLISH" value="70" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
