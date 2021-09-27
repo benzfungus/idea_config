@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Properties in parent definition are prohibited" />
       <item value="Insufficient Authentication Exception" />
       <item value="监测频次" />
       <item value="其他" />
@@ -53,11 +54,10 @@
       <item value="Work Reminder" />
       <item value="Work Notice" />
       <item value="if (!CollectionUtils.isEmpty(evaluationTemplates)) { evaluationTemplateService.saveBatchPresetTemplate(evaluationTemplates, SecurityConstants.FROM_IN); }" />
-      <item value="预设" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="74" />
+        <entry key="CHINESE" value="75" />
         <entry key="ENGLISH" value="75" />
         <entry key="DANISH" value="1" />
       </map>
