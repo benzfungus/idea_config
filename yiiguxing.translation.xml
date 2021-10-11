@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="重叠" />
       <item value="Properties in parent definition are prohibited" />
       <item value="Insufficient Authentication Exception" />
       <item value="监测频次" />
@@ -53,18 +54,17 @@
       <item value="互动点评" />
       <item value="Work Reminder" />
       <item value="Work Notice" />
-      <item value="if (!CollectionUtils.isEmpty(evaluationTemplates)) { evaluationTemplateService.saveBatchPresetTemplate(evaluationTemplates, SecurityConstants.FROM_IN); }" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="75" />
+        <entry key="CHINESE" value="76" />
+        <entry key="ENGLISH" value="76" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1632364609942" />
+    <option name="lastTrimTime" value="1633938465959" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
