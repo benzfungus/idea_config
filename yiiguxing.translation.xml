@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="AUDITED" />
+      <item value="AUDIT" />
       <item value="重叠" />
       <item value="Properties in parent definition are prohibited" />
       <item value="Insufficient Authentication Exception" />
@@ -52,13 +54,11 @@
       <item value="WHOLE PROGRAM" />
       <item value="SPORT RECORD" />
       <item value="互动点评" />
-      <item value="Work Reminder" />
-      <item value="Work Notice" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="76" />
+        <entry key="CHINESE" value="77" />
+        <entry key="ENGLISH" value="78" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
