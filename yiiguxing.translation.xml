@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="continue" />
+      <item value="连续" />
+      <item value="continuous" />
       <item value="AUDITED" />
       <item value="AUDIT" />
       <item value="重叠" />
@@ -51,26 +55,16 @@
       <item value="已处理" />
       <item value="待处理" />
       <item value="STAGE SUMMARY" />
-      <item value="WHOLE PROGRAM" />
-      <item value="SPORT RECORD" />
-      <item value="互动点评" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="77" />
-        <entry key="ENGLISH" value="78" />
+        <entry key="CHINESE" value="82" />
+        <entry key="ENGLISH" value="80" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1633938465959" />
-  </component>
-  <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
-    </option>
+    <option name="lastTrimTime" value="1637634926303" />
   </component>
 </application>
