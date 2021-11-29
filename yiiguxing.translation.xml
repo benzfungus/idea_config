@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="System calculation" />
+      <item value="系统计算" />
+      <item value="专病问卷" />
+      <item value="健康问卷" />
+      <item value="很高危" />
+      <item value="高危" />
+      <item value="中危" />
+      <item value="低危" />
       <item value="疾病风险" />
       <item value="当天" />
       <item value="监测时间" />
@@ -47,19 +55,11 @@
       <item value="客观检查" />
       <item value="objective Determination" />
       <item value="inspection" />
-      <item value="deposited" />
-      <item value="续会" />
-      <item value="INTERVENTION" />
-      <item value="会员" />
-      <item value="设置" />
-      <item value="入会" />
-      <item value="营养处方" />
-      <item value="点评" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="92" />
+        <entry key="CHINESE" value="99" />
+        <entry key="ENGLISH" value="100" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
