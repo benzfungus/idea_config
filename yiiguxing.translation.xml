@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="IN PROGRESS" />
+      <item value="进行中" />
+      <item value="MEETING" />
+      <item value="未开始" />
       <item value="游客" />
       <item value="fail" />
       <item value="failed" />
@@ -51,15 +55,11 @@
       <item value="其他" />
       <item value="quantity" />
       <item value="份量" />
-      <item value="Weight" />
-      <item value="dose" />
-      <item value="peek" />
-      <item value="Ordinary" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="113" />
-        <entry key="ENGLISH" value="113" />
+        <entry key="CHINESE" value="115" />
+        <entry key="ENGLISH" value="116" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
