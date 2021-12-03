@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="退掉" />
+      <item value="Withdraw" />
       <item value="IN PROGRESS" />
       <item value="进行中" />
       <item value="MEETING" />
@@ -53,13 +55,11 @@
       <item value="Insufficient Authentication Exception" />
       <item value="监测频次" />
       <item value="其他" />
-      <item value="quantity" />
-      <item value="份量" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="115" />
-        <entry key="ENGLISH" value="116" />
+        <entry key="CHINESE" value="117" />
+        <entry key="ENGLISH" value="117" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
