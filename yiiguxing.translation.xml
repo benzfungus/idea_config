@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="idcard" />
       <item value="customer suspend record" />
       <item value="游离" />
       <item value="FINISH" />
@@ -54,17 +55,16 @@
       <item value="AUDIT" />
       <item value="重叠" />
       <item value="Properties in parent definition are prohibited" />
-      <item value="Insufficient Authentication Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="119" />
+        <entry key="ENGLISH" value="120" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1638753766161" />
+    <option name="lastTrimTime" value="1639559742508" />
   </component>
 </application>
