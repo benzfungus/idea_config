@@ -1,10 +1,16 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogWidth" value="590" />
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Before Breakfast" />
+      <item value="Before" />
+      <item value="limosis" />
+      <item value="空腹" />
+      <item value="Fasting" />
       <item value="idcard" />
       <item value="customer suspend record" />
       <item value="游离" />
@@ -50,21 +56,16 @@
       <item value="累计" />
       <item value="continue" />
       <item value="连续" />
-      <item value="continuous" />
-      <item value="AUDITED" />
-      <item value="AUDIT" />
-      <item value="重叠" />
-      <item value="Properties in parent definition are prohibited" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="119" />
-        <entry key="ENGLISH" value="120" />
+        <entry key="CHINESE" value="126" />
+        <entry key="ENGLISH" value="127" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1639559742508" />
+    <option name="lastTrimTime" value="1640322714020" />
   </component>
 </application>
