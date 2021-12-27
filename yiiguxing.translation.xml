@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="解析" />
       <item value="processed" />
       <item value="Inspection" />
       <item value="transform" />
@@ -55,11 +56,10 @@
       <item value="健康知识" />
       <item value="sub title" />
       <item value="健康文章" />
-      <item value="未读" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="129" />
+        <entry key="CHINESE" value="130" />
         <entry key="ENGLISH" value="130" />
         <entry key="DANISH" value="1" />
       </map>
