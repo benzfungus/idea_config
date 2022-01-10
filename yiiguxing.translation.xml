@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="授权" />
       <item value="一体机" />
       <item value="续会" />
       <item value="解析" />
@@ -55,12 +56,11 @@
       <item value="监测时间" />
       <item value="缩略图" />
       <item value="health article" />
-      <item value="健康知识" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="132" />
-        <entry key="ENGLISH" value="132" />
+        <entry key="CHINESE" value="133" />
+        <entry key="ENGLISH" value="133" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
