@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="process" />
       <item value="处理" />
       <item value="Process" />
       <item value="Produce" />
@@ -55,17 +56,16 @@
       <item value="中危" />
       <item value="低危" />
       <item value="疾病风险" />
-      <item value="当天" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="135" />
-        <entry key="ENGLISH" value="135" />
+        <entry key="ENGLISH" value="136" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1641535129573" />
+    <option name="lastTrimTime" value="1642062606661" />
   </component>
 </application>
