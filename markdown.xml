@@ -4,4 +4,9 @@
       <entry key="MermaidLanguageExtension" value="true" />
     </enabledExtensions>
   </component>
+  <component name="MarkdownExtensionsSettings">
+    <enabledExtensions>
+      <entry key="MermaidLanguageExtension" value="true" />
+    </enabledExtensions>
+  </component>
 </application>
