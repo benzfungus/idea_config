@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="motion" />
       <item value="guidance" />
       <item value="指导建议" />
       <item value="运动感受" />
@@ -55,12 +56,11 @@
       <item value="未开始" />
       <item value="游客" />
       <item value="fail" />
-      <item value="failed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="153" />
-        <entry key="ENGLISH" value="154" />
+        <entry key="CHINESE" value="154" />
+        <entry key="ENGLISH" value="155" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
       </map>
