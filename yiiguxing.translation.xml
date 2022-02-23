@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="sport" />
+      <item value="运动原则模板" />
+      <item value="exercise record" />
+      <item value="锻炼记录" />
       <item value="柔韧训练" />
       <item value="柔韧锻炼" />
       <item value="力量训练" />
@@ -52,15 +56,11 @@
       <item value="health manage type" />
       <item value="分配" />
       <item value="游客分配" />
-      <item value="- Insert the &amp;percnt;`IDE_NAME`&amp;percnt; macro, which will be replaced by the actual IDE name. For example, %IDE_NAME%. - Insert PSI elements, by using links like `&lt;a href=&quot;psi_element:link.to.element&quot;&gt;element description&lt;a&gt;`. To get such a link, right-click the class or method and select Copy Reference. Then press &amp;shortcut:EditorPaste; to insert the link where appropriate. For example, a &lt;a href=&quot;psi_element:java.lang.Stringcontains&quot;&gt;link" />
-      <item value="- You can insert shortcuts in the task description. While task.htmltask.md is open, right-click anywhere on the Editor tab and choose the Insert shortcut option from the context menu. For example: &amp;shortcut:FileStructurePopup;." />
-      <item value="- You may need to refer your learners to a particular lesson, task, or file. To achieve this, you can use the in-course links. Specify the path using the `[link_text](course:lesson1task1file1)` format." />
-      <item value="- Hints can be added anywhere in the task text. Type &quot;hint&quot; and press Tab. Hints should be added to an empty line in the task text. In hints you can use both HTML and Markdown. &lt;div class=&quot;hint&quot;&gt; Text of your hint &lt;div&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="147" />
-        <entry key="ENGLISH" value="147" />
+        <entry key="CHINESE" value="150" />
+        <entry key="ENGLISH" value="151" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
       </map>
