@@ -6,6 +6,11 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="柔韧训练" />
+      <item value="柔韧锻炼" />
+      <item value="力量训练" />
+      <item value="心肺耐力训练" />
+      <item value="原则" />
       <item value="Configurer" />
       <item value="普通渠道" />
       <item value="非第三方渠道" />
@@ -51,22 +56,17 @@
       <item value="- You can insert shortcuts in the task description. While task.htmltask.md is open, right-click anywhere on the Editor tab and choose the Insert shortcut option from the context menu. For example: &amp;shortcut:FileStructurePopup;." />
       <item value="- You may need to refer your learners to a particular lesson, task, or file. To achieve this, you can use the in-course links. Specify the path using the `[link_text](course:lesson1task1file1)` format." />
       <item value="- Hints can be added anywhere in the task text. Type &quot;hint&quot; and press Tab. Hints should be added to an empty line in the task text. In hints you can use both HTML and Markdown. &lt;div class=&quot;hint&quot;&gt; Text of your hint &lt;div&gt;" />
-      <item value="The following features are available in task.mdtask.html which are specific to the EduTools plugin:" />
-      <item value="It supports both Markdown and HTML. To toggle the format, you can rename task.md to task.html, or vice versa. The default task description format can be changed in Preferences | Tools | Education, but this will not affect any existing task description files." />
-      <item value="This is a task description file. Its content will be displayed to a learner in the Task Description window." />
-      <item value="System calculation" />
-      <item value="系统计算" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="141" />
-        <entry key="ENGLISH" value="141" />
+        <entry key="CHINESE" value="147" />
+        <entry key="ENGLISH" value="147" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1644386462160" />
+    <option name="lastTrimTime" value="1645603442189" />
   </component>
 </application>
