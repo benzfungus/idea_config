@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Evaluate" />
       <item value="跟练" />
       <item value="motion" />
       <item value="guidance" />
@@ -55,18 +56,17 @@
       <item value="进行中" />
       <item value="MEETING" />
       <item value="未开始" />
-      <item value="游客" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="155" />
-        <entry key="ENGLISH" value="155" />
+        <entry key="ENGLISH" value="156" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1645603442189" />
+    <option name="lastTrimTime" value="1646099804626" />
   </component>
 </application>
