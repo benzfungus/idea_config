@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="successful Authentication" />
+      <item value="attempt Authentication" />
       <item value="old Version Fix" />
       <item value="thumbnail" />
       <item value="Brief" />
@@ -54,19 +56,17 @@
       <item value="Fasting" />
       <item value="idcard" />
       <item value="customer suspend record" />
-      <item value="游离" />
-      <item value="FINISH" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="161" />
-        <entry key="ENGLISH" value="162" />
+        <entry key="CHINESE" value="163" />
+        <entry key="ENGLISH" value="164" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1649210637158" />
+    <option name="lastTrimTime" value="1649660028437" />
   </component>
 </application>
