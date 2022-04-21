@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="预定义" />
       <item value="supplier" />
       <item value="渠道商" />
       <item value="actuator" />
@@ -55,11 +56,10 @@
       <item value="transform" />
       <item value="转换" />
       <item value="Before Breakfast" />
-      <item value="Before" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="167" />
+        <entry key="CHINESE" value="168" />
         <entry key="ENGLISH" value="168" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
@@ -67,6 +67,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1649660028437" />
+    <option name="lastTrimTime" value="1650522614431" />
   </component>
 </application>
